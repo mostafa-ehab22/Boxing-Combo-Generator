@@ -1,15 +1,3 @@
-<div align="center">
-
-# boxing-combo-generator
-
-A terminal tool that generates boxing punch combinations with coaching tips and timed drills.
-
-[![](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-
-</div>
-
----
-
 ## What it does
 
 Generates randomized punch combinations by difficulty and stance. Each combo includes a number sequence (the standard boxing shorthand), full punch names, and a coaching tip. Optional drill mode runs timed rounds so you can actually train with it.
@@ -88,13 +76,9 @@ Runs 3 rounds of 30 seconds work / 15 seconds rest with a live countdown. Gives 
 Standard library only. No installs.
 
 ```bash
-git clone https://github.com/mostafa-ehab22/boxing-combo-generator
-cd boxing-combo-generator
+git clone https://github.com/mostafa-ehab22/Boxing-Combo-Generator
+cd Boxing-Combo-Generator
 python combo.py
 ```
 
 ---
-
-## License
-
-MIT
