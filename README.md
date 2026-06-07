@@ -1,4 +1,4 @@
-## What it does
+## Project Overview
 
 Generates randomized punch combinations by difficulty and stance. Each combo includes a number sequence (the standard boxing shorthand), full punch names, and a coaching tip. Optional drill mode runs timed rounds so you can actually train with it.
 
