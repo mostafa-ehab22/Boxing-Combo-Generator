@@ -4,7 +4,7 @@ Generates randomized punch combinations by difficulty and stance. Each combo inc
 
 ```
   Boxing Combo Generator  Orthodox / Intermediate
-  ------------------------------------
+  ------------------------------------------------
 
   Jab-cross-uppercut-cross
 
@@ -14,8 +14,6 @@ Generates randomized punch combinations by difficulty and stance. Each combo inc
 ```
 
 Power punches (2, 4, 6) are highlighted in red in the terminal.
-
----
 
 ## Usage
 
@@ -42,8 +40,6 @@ python combo.py -d intermediate --drill     # combo + 3x30s timed drill
 python combo.py --all -d beginner           # all beginner combos
 ```
 
----
-
 ## Punch numbering
 
 Standard boxing notation used worldwide:
@@ -59,8 +55,6 @@ Standard boxing notation used worldwide:
 
 Southpaw stance mirrors hooks and uppercuts (3/4 and 5/6 swap sides).
 
----
-
 ## Drill mode
 
 ```bash
@@ -68,8 +62,6 @@ python combo.py -d intermediate --drill
 ```
 
 Runs 3 rounds of 30 seconds work / 15 seconds rest with a live countdown. Gives you one combo to drill for the full session rather than randomizing mid-workout.
-
----
 
 ## No dependencies
 
